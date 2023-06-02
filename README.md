@@ -10,7 +10,7 @@ This repository contains various investing tools I have used to make returns of 
 ## compound_interest.xlsx
 - To gain perspective on how fast compound interest grows over time given interest rate
 
-## Kelly Critereon
+## Kelly_Critereon.xlsx
 - Used to figure out how much to invest on a single investment
 - For example, if one were to bet heads on a weighted coin with 60% chance of showing heads, betting all of your money every time would eventually leave you broke
 
